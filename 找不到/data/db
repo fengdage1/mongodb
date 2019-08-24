@@ -1,0 +1,1 @@
+1.root用户mongodb启动时候找不到/data/db，换到/目录 ,mkdir /data/db -p
